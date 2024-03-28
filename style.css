@@ -1,0 +1,32 @@
+* {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body {
+    /* background-color: beige; */
+}
+section {
+    height: 400px;
+    width: 100px;
+    margin: 30px;
+    border: 5px solid black
+}
+.display-inline {
+    color: aquamarine;
+    display: inline;
+    align-items: center; 
+}
+.about-me {
+    width: 100%;
+    border: 10px solid darkblue;
+    background-color: lightblue;
+}
+.work {
+    width: 100%;
+    border: 10px solid darkblue;
+    background-color: lightblue;
+}
+.contact-me {
+    width: 100%;
+    border: 10px solid darkblue;
+    background-color: lightblue;
+}
