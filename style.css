@@ -1,8 +1,15 @@
 * {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 10px;
 }
 body {
     background-color: beige;
+}
+header {
+    font-family: cursive;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 100px;
 }
 section {
     height: 400px;
@@ -10,9 +17,12 @@ section {
     margin: 30px;
     border: 5px solid black
 }
-.display-inline {
-    color: aquamarine;
-    display: inline; 
+.display-inline a {
+    display: flex; 
+    color: black;
+    align-items: center;
+    float: right;
+    padding: 10px 20px;
 }
 .about-me {
     width: 100%;
@@ -28,4 +38,8 @@ section {
     width: 100%;
     border: 5px solid darkblue;
     background-color: lightblue;
+}
+.box {
+    height: 100px;
+    width: 200px
 }
