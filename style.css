@@ -26,6 +26,8 @@ header nav a {
     margin-right: 15px;
     justify-content: space-around;
     text-decoration: none; 
+    border: 2px solid black;
+    color: grey;
 }
 
 main {
@@ -43,6 +45,7 @@ section h2 {
     flex: 0 0 20%;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+    padding-top: 20px;
 }
 
 section div {
@@ -55,10 +58,7 @@ footer {
     align-items: center;
     flex-wrap: wrap;
     padding: 20px;
-}
-
-section h2 {
-    padding-top: 20px;
+    border: 2px solid black;
 }
 
 .projects{
@@ -118,43 +118,23 @@ section h2 {
     box-shadow: 5px 5px 20px grey;
 
 }
-
+.contact-me{
+    display: inline-block;
+    margin: 15px;
+    text-decoration: none; 
+    border: 2px solid black;
+    color: grey;
+}
+header nav a:hover{
+    background-color: white;
+    color:black
+}
+.contact-me:hover{
+    background-color: white;
+    color:black
+}
 @media screen and (max-width: 992px) {
     .item {
         flex-basis: 100%;
     }
 }
-
-/* 
-section {
-    height: 400px;
-    width: 300px;
-    margin: 30px;
-    border: 5px solid black
-}
-.display-inline a {
-    display: flex; 
-    color: black;
-    align-items: center;
-    float: right;
-    padding: 10px 20px;
-}
-.about-me {
-    width: 100%;
-    border: 5px solid darkblue;
-    background-color: lightblue;
-}
-.work {
-    width: 100%;
-    border: 5px solid darkblue;
-    background-color: lightblue;
-}
-.contact-me {
-    width: 100%;
-    border: 5px solid darkblue;
-    background-color: lightblue;
-}
-.box {
-    height: 100px;
-    width: 200px
-} */
