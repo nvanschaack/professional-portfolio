@@ -10,7 +10,8 @@ In this portfolio, you will be able to see five applications I have created in t
 
 ## Credits
 - Make a README: I used [this](https://www.makeareadme.com/) website to help me create this README.
--edX XPERT: I used [this](https://bootcampspot.instructure.com/courses/5291/external_tools/313) tool to help me debug my code.
+
+- edX XPERT: I used [this](https://bootcampspot.instructure.com/courses/5291/external_tools/313) tool to help me debug my code.
 
 ## License
 Please refer to the LICENSE in the repo.
