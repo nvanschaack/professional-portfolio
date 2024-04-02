@@ -1,15 +1,16 @@
 ## Description
-This [webpage's](paste website URL once deployed) code has been refactored to help future visitors and/or coders to easily navigate it. It was important to address accessibility concerns related to potential visitors of this website. Web accessibility is an increasingly important feature that needs to be accounted for when creating a website for your business. This means that there are assistive technologies incorporated into the foundational code to help users with disabilities navigate on their device. Having this feature will also better position the websites' ranking in a search engine like Google.
+This is a professional portfolio that was created to showcase some of my most impressive pieces of work from my bootcamp class at University of Texas-Austin. This portfolio is a good resource for potential employers to review and assess whether I am a good candidate for an open position. 
 
 ## Technologies Used
 HTML5,
 CSS3
 
 ## Usage
-This website is a great resource for those web browsers interested in learning more about **Horiseon** and what it has to offer as a marketing agency. It is an accessible, easy-to-navigate website that depicts certain values this agency holds; search engine optimization, online reputation management, and social media marketing. In only one page, you can get a clear idea of what Horiseon's goals are as a company.
+In this portfolio, you will be able to see five applications I have created in the **work** section. In order to view each application, you can click on the image, which acts like a button, and you will be brought to that specific web application. Also, within the portfolio there are navigation links to help you maneuver on the page easier, depending on what exactly you want to view. Contact information is listed at the bottom of the page for how to best contact me. 
 
 ## Credits
 - Make a README: I used [this](https://www.makeareadme.com/) website to help me create this README.
+-edX XPERT: I used [this](https://bootcampspot.instructure.com/courses/5291/external_tools/313) tool to help me debug my code.
 
 ## License
 Please refer to the LICENSE in the repo.
