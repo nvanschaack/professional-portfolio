@@ -87,10 +87,9 @@ footer {
 
 .one {
     flex-basis: 100%;
-    background-image: url(../images/pattern-1.png);
+    background-image: url(../images/employee-payroll-tracker.png);
     min-height: 400px;
     /* how do i get text to go on top of an image? */
-    /* include code-refactor project in here */
 }
 
 .two {
